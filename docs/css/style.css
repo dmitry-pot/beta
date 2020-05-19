@@ -1,0 +1,18 @@
+
+
+html,body{ 
+	
+	height:auto;
+	
+    background: rgba(31, 31, 31, 1);
+}
+
+html{
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+canvas{
+  display:block;
+  vertical-align:bottom;
+}
+
