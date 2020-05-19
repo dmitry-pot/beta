@@ -391,7 +391,7 @@ const DarkMode = {
 								@mouseenter="handleHover" 
 								@mouseleave="shutdownHover"
 							>
-								<span class="copyright">&copy; 2020</span> VS All right reserved.
+								<span class="copyright">&copy; 2020</span> DP All right reserved.
 							</p>
 						</div>
 						<div class="nopadding">
